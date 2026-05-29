@@ -1,6 +1,6 @@
 # ECBD_9A_IDGS_PRACTICAS_230389
 
-![Logo Oficial UTXJ](logoOficialUTXJSombra.png)
+![Logo Oficial UTXJ](logoTI.png)
 
 ## REPOSITORIO DE PRÁCTICAS PARA LA ASIGNATURA DE ANÁLISIS DE DATOS PARA NEGOCIOS DIGITALES
 
@@ -8,8 +8,6 @@ Este repositorio contendrá los resultados de las prácticas de la materia para 
 
 ## Tabla de prácticas
 
-| Número | Descripción            | Potenciador | Estatus   |
-| ------ | ---------------------- | ----------- | --------- |
-| 1      | Pendiente de registrar | Pendiente   | Pendiente |
-| 2      | Pendiente de registrar | Pendiente   | Pendiente |
-| 3      | Pendiente de registrar | Pendiente   | Pendiente |
+| Número | Descripción                                           | Potenciador | Estatus   |
+| ------ | ----------------------------------------------------- | ----------- | --------- |
+| 1      | Introducción al uso de Python en el Análisis de Datos | Pendiente   | Pendiente |
